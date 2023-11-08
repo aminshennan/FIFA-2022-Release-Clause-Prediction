@@ -24,8 +24,7 @@ The linear regression model successfully predicted player release clauses. Futur
 
 ## How to Use
 1. Clone the repository.
-2. Install the required dependencies listed in `requirements.txt`.
-3. Run the Jupyter notebook `Project.ipynb` to view the analysis and modeling process.
+2. Run the Jupyter notebook `Project.ipynb` to view the analysis and modeling process.
 
 ## References
 - FIFA 2022 Complete Player Dataset: [Kaggle Dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset?select=players_22.csv)
